@@ -32,11 +32,6 @@ I'm on a journey to explore the world of AI and software development, currently 
 ## 🌱 My Coding Philosophy
 > "Learn by doing, build by experimenting, grow by challenging myself with new technologies."
 
-## 📊 GitHub Stats
-![Fiona'\''s GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiona-7788&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiona-7788&layout=compact&theme=radical)
-
 ## 🤝 Let's Connect
 - 📫 **How to reach me**: Through GitHub discussions or issues
 - 💼 **LinkedIn**: [https://linkedin.com/in/Yujing_Feng](https://www.linkedin.com/in/yujing-feng-aa2a43395/)
