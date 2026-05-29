@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fiona!
 
-💻 **Aspiring AI Developer | Software Engineering | Tech Learner | Vibe coder**
+💻 **Aspiring AI Developer | Software Engineering | Vibe coder**
 I'm on a journey to explore the world of AI and software development, currently building and experimenting with various projects.
 
 ## 🚀 What I'm Working On
@@ -12,7 +12,7 @@ I'm on a journey to explore the world of AI and software development, currently 
 ## 🔧 Languages & Tools
 - Languages: Python, Java, C, Git, Markdown
 - Tools: OpenAI API, GitHub, Command Line
-- Areas of interest: Software engineering, AI engineering, Data analysis
+- Areas of interest: Software engineering, AI development, Data analysis
 
 ## 📂 Featured Projects
 - **[Rate Dining Hall](https://github.com/GNnnnR/Team5-rateDinigHall)**: A full-stack group project for rating school dining halls, featuring both frontend and backend development
