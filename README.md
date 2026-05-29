@@ -38,8 +38,3 @@ I'm on a journey to explore the world of AI and software development, currently 
 ---
 ⭐ **Fun Fact**: I'm a big fan of R&B music! 🎧
 🔗 *Check out my repositories to see what I'm currently building!*
-```
-
----
-
-Ready to paste into GitHub! Would you like any final tweaks?
