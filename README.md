@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fiona!
 
-💻 **Aspiring AI Developer | Software Engineering | Vibe coder**
+💻 **Aspiring AI Developer | Software Engineering | Vibe coder**  
 I'm on a journey to explore the world of AI and software development, currently building and experimenting with various projects.
 
 ## 🚀 What I'm Working On
