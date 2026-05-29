@@ -36,5 +36,5 @@ I'm on a journey to explore the world of AI and software development, currently 
 - 🎯 **Looking forward to**: Building more complex projects and contributing to open source
 
 ---
-⭐ **Fun Fact**: I'm a big fan of R&B music! 🎧
+⭐ **Fun Fact**: I'm a big fan of R&B music! 🎧  
 🔗 *Check out my repositories to see what I'm currently building!*
