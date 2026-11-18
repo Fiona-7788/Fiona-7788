@@ -1,6 +1,6 @@
 # Hi, I'm Fiona 👋
 
-Math–Computer Science @ **UC San Diego** (B.S. expected 2029) · interested in **AI agents and software engineering**
+Math–Computer Science @ **UC San Diego** (B.S. expected 2029) · interested in **AI agents and software engineering**<br>
 I like building tools that help people learn and work, then taking them all the way from idea to deployed product.
 
 ---
@@ -22,7 +22,7 @@ Upload your notes, and it quizzes you on them, grades your answers, and schedule
 
 ## 🔬 Research
 
-**Early Research Scholars Program (ERSP), UCSD CSE** · Fall 2026 – present
+**Early Research Scholars Program (ERSP), UCSD CSE** · Fall 2026 – present<br>
 Advisor: Prof. Michael Coblenz
 
 - Research on **computational notebooks and multi-agent AI**: a notebook where multiple AI agents collaborate, with each step as a modular cell
@@ -61,6 +61,6 @@ Advisor: Prof. Michael Coblenz
 
 ## 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/yujing-feng-aa2a43395/) · open to Summer 2027 internships in software engineering, AI agents, product, and data science
+[LinkedIn](https://www.linkedin.com/in/yujing-feng-aa2a43395/) · open to Summer 2027 internships in software engineering, AI agents and product
 
 🎧 Fun fact: big R&B fan
