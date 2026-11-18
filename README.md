@@ -1,42 +1,66 @@
-# 👋 Hello, I'm Fiona!
+# Hi, I'm Fiona 👋
 
-💻 **Aspiring AI Developer | Software Engineering | Vibe coder**  
-
-I'm on a journey to explore the world of AI and software development, currently building and experimenting with various projects.
-
-## 🚀 What I'm Working On
-- 🍽️ **Full-Stack Group Project**: Building a school dining hall rating platform (frontend + backend) with my team  
-- 🎓 **GPA Calculator**: A Python tool to track courses, compute weighted GPA, simulate future grades, and visualize grade data with matplotlib  
-- 🛠️ **Systems Programming Labs**: Hands-on practice with Unix/Vim, Git version control, debugging with GDB, and memory management with Valgrind — all in C  
-- 🎯 **Skill Building**: Strengthening problem-solving through SQL on LeetCode, deepening understanding of data structures & algorithms in Java, and exploring core operating systems concepts  
-
-## 🔧 Languages & Tools
-- Languages: Python, Java, C, Git, Markdown
-- Tools: OpenAI API, GitHub, Command Line
-- Areas of interest: Software engineering, AI development, Data analysis
-
-## 📂 Featured Projects
-- **[AI Chatbot](https://github.com/Fiona-7788/AI-Chatbot)**: A sarcastic AI assistant with token management and conversation memory
-- **[Rate Dining Hall](https://github.com/GNnnnR/Team5-rateDinigHall)**: A full-stack group project for rating school dining halls, featuring both frontend and backend development
-- **[GPA Calculator](https://github.com/Fiona-7788/GPA-Calculator)**: A Python tool to track courses, compute weighted GPA, simulate future grades, and visualize grade data with matplotlib
-- *More projects coming soon as I continue to learn and build!*
-
-## 📚 Currently Learning
-- Operating system programming & software tools in C
-- Data structures & algorithms in Java
-- SQL & database querying
-- AI/ML fundamentals
-
-## 🌱 My Coding Philosophy
-> "Learn by doing, build by experimenting, grow by challenging myself with new technologies."
-
-## 🤝 Let's Connect
-- 📫 **How to reach me**: Through GitHub discussions or issues
-- 💼 **LinkedIn**: [https://linkedin.com/in/Yujing_Feng](https://www.linkedin.com/in/yujing-feng-aa2a43395/)
-- 💡 **Always open to**: Learning opportunities, coding tips, and collaborative projects
-- 🎯 **Looking forward to**: Building more complex projects and contributing to open source
+Math–Computer Science @ **UC San Diego** (B.S. expected 2029) · interested in **AI agents and software engineering**
+I like building tools that help people learn and work, then taking them all the way from idea to deployed product.
 
 ---
-⭐ **Fun Fact**: I'm a big fan of R&B music! 🎧  
 
-🔗 *Check out my repositories to see what I'm currently building!*
+## 🚀 Featured Project
+
+### [AI Study Companion](https://github.com/Fiona-7788/ai-study-companion)
+Upload your notes, and it quizzes you on them, grades your answers, and schedules what to review next.
+
+- **Retrieval + question generation**: notes are embedded and stored in the database; the most relevant chunks are retrieved to generate Socratic-style questions with OpenAI
+- **AI grading**: returns structured JSON (correct/incorrect, feedback, reference answer) using the source note as context, with a fallback parser and its own tests
+- **Spaced repetition**: an SM-2–inspired scheduler drives a one-question-at-a-time review queue
+- **Learning dashboard**: `/stats` endpoint powering due-today count, accuracy, 7-day activity, and per-source weak spots
+- **Engineering**: FastAPI + SQLite backend deployed on Render, Streamlit frontend on Streamlit Cloud, 31 passing pytest tests
+
+`Python` `FastAPI` `SQLite` `OpenAI API` `Streamlit` `pytest` `Render`
+
+---
+
+## 🔬 Research
+
+**Early Research Scholars Program (ERSP), UCSD CSE** · Fall 2026 – present
+Advisor: Prof. Michael Coblenz
+
+- Research on **computational notebooks and multi-agent AI**: a notebook where multiple AI agents collaborate, with each step as a modular cell
+- I co-own the **interactive cell agent**, starting with a feature that lets the agent ask the user a clarifying question with options instead of guessing
+- Building on a Jupyter-based prototype with a team of five
+
+---
+
+## 💼 Experience
+
+**Product Manager Intern** · Hangzhou Shengya EdTech · Summer 2026
+
+- **AI model routing & billing platform**: co-wrote the requirements doc for the admin backend, turning 9 stakeholder issues into implementation specs — including a recharge approval workflow (states + event/callback contract for another engineer), reseller hierarchy validation, role-based balance display, and a menu restructure into a unified product center
+- **High school online enrollment system**: led project closeout — process and architecture diagrams, user manual, and results presentation
+- Worked with K-12 schools and universities to gather requirements and coordinate delivery
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: Python, Java, C, SQL
+- **Backend & tools**: FastAPI, SQLite, REST APIs, Git/GitHub, pytest, Streamlit
+- **AI**: OpenAI API, embeddings & retrieval, LLM-based grading
+- **Deployment**: Render, Streamlit Cloud
+- **Product**: requirements docs, workflow design, process diagrams
+
+---
+
+## 📂 Other Projects
+
+- **[Rate Dining Hall](https://github.com/GNnnnR/Team5-rateDinigHall)** — full-stack team project for rating UCSD dining halls
+- **[GPA Calculator](https://github.com/Fiona-7788/GPA-Calculator)** — Python tool to track courses, compute weighted GPA, and simulate future grades
+- **[AI Chatbot](https://github.com/Fiona-7788/AI-Chatbot)** — my first OpenAI API project, with conversation memory and token management
+
+---
+
+## 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/yujing-feng-aa2a43395/) · open to Summer 2027 internships in software engineering, AI agents, product, and data science
+
+🎧 Fun fact: big R&B fan
